@@ -7,11 +7,11 @@ Performance measurement includes PER for experiemntation and BER for simulation.
 A complete guide on how to install GNU Radio can be followed using this link:
 https://wiki.gnuradio.org/index.php/InstallingGR
 A short description of installation commands to follow is depicted below:
-•Installing GNU Radio;
-•cd;
-•git clone https://github.com/gnuradio/gnuradio.git;
-•cd gnuradio;
-•mkdir build;
-•cd build;
-•cmake -DCMAKE_BUILD_TYPE=Release -DPYTHON_EXECUTABLE=/usr/bin/python3 ../;
-•make;
+•Installing GNU Radio
+•cd
+•git clone https://github.com/gnuradio/gnuradio.git
+•cd gnuradio
+•mkdir build
+•cd build
+•cmake -DCMAKE_BUILD_TYPE=Release -DPYTHON_EXECUTABLE=/usr/bin/python3 ../
+•make
