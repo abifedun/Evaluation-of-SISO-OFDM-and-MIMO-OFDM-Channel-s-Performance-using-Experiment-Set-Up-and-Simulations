@@ -1,5 +1,4 @@
-# Evaluation-of-SISO-OFDM-and-MIMO-OFDM-Channel-s-Performance-using-Experiment-Set-Up-and-Simulations
-# Evaluation of SISO-OFDM and MIMO-OFDM Channel’s Performance using Experiment Set Up and Simulations
+# Evaluation of SISO-OFDM and MIMO-OFDM Channel’s Performance using Experiment Set Up and Simulations.
 Simulation and Laboratory Experiment were carried out using the GNU Radio software platform.
 OFDM System was evaluated using Simulation and Experiment with USRP N210.
 An IEEE 802.11 WLAN system is built using the SISO-OFDM and MIMO-OFDM transciever network in GNU Radio.
